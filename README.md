@@ -1,1 +1,2 @@
-# CS4350-Command-Line
+# Command-Line-Sim
+Project 3 of Unix
